@@ -1,2 +1,2 @@
 # C--Number-Gussing-Game
-Simple Game
+If you want to play this game then Download Game.exe file and run it using command prompt(cmd) in your system...
