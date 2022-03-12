@@ -1,2 +1,2 @@
-# C-1st-project
-C 1st project
+# C--Number-Gussing-Game
+Simple Game
