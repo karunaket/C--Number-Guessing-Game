@@ -33,13 +33,12 @@
  ![image](https://user-images.githubusercontent.com/81628692/187067984-0700ccbe-a96d-42f9-a6f3-085060cc363b.png)
 <br>
  <h3>- Click Game.exe and press enter.</h3>
- ![image](https://user-images.githubusercontent.com/81628692/187068010-4d27c51d-6897-4939-9f7a-36d32d18c54b.png)
- ![image](https://user-images.githubusercontent.com/81628692/187068043-c72e0084-7b53-4ad1-8120-86f9f10b2e4c.png)
- ![image](https://user-images.githubusercontent.com/81628692/187068075-cd1b4fed-c1dc-404e-8b4a-6cf21f51d893.png)
+ ![image](https://user-images.githubusercontent.com/81628692/187068010-4d27c51d-6897-4939-9f7a-36d32d18c54b.png)<br>
+ ![image](https://user-images.githubusercontent.com/81628692/187068043-c72e0084-7b53-4ad1-8120-86f9f10b2e4c.png)<br>
+ ![image](https://user-images.githubusercontent.com/81628692/187068075-cd1b4fed-c1dc-404e-8b4a-6cf21f51d893.png)<br>
  <h2>- Commands of command prompt.</h3><br>
  <p>1. cd Downloads</p><br>
  <p>2. cd C--Number-Guessing-Game-main</p><br>
  <p>3. cd C--Number-Guessing-Game-main</p><br>
  <p>4. Game.exe</p><br>
- <br>
  <h1><b>Enjoy :)</b></h1>
