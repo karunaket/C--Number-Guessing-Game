@@ -22,7 +22,7 @@
 <br>
  ![image](https://user-images.githubusercontent.com/81628692/187067938-137107f0-1ccd-46ef-88f9-e53ca58db313.png)
 <br>
- <h3>- Click dir to view list of files.</h3>
+ <h3>- Enter dir to view list of files.</h3>
  ![image](https://user-images.githubusercontent.com/81628692/187068010-4d27c51d-6897-4939-9f7a-36d32d18c54b.png)<br>
 <br>
  <h3>- Click Game.exe and press enter.</h3>
