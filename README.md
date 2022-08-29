@@ -16,13 +16,6 @@
  <h3>- Now follow these images.</h3>
   ![image](https://user-images.githubusercontent.com/81628692/187067719-b24118b4-d1da-448c-936d-5be8e39c4f22.png)
 <br>
- <h3>- Double click on C--Number-Guessing-Game-main folder.</h3>
- <h3>- Again Double click on C--Number-Guessing-Game-main folder.</h3>
-<br>
-  ![image](https://user-images.githubusercontent.com/81628692/187067789-eaa926a7-72d3-4f83-bad4-300b99e51362.png)
-<br>
- <h3>- Again follow these images.</h3>
-<br>
  ![image](https://user-images.githubusercontent.com/81628692/187067866-535883ff-a07a-49ae-ab63-5b1fad8e3490.png)
 <br>
  ![image](https://user-images.githubusercontent.com/81628692/187067919-4f5b53db-64f6-4c9a-a13f-b60d219606fa.png)
