@@ -23,10 +23,9 @@
  ![image](https://user-images.githubusercontent.com/81628692/187067938-137107f0-1ccd-46ef-88f9-e53ca58db313.png)
 <br>
  <h3>- Click dir to view list of files.</h3>
- ![image](https://user-images.githubusercontent.com/81628692/187067984-0700ccbe-a96d-42f9-a6f3-085060cc363b.png)
+ ![image](https://user-images.githubusercontent.com/81628692/187068010-4d27c51d-6897-4939-9f7a-36d32d18c54b.png)<br>
 <br>
  <h3>- Click Game.exe and press enter.</h3>
- ![image](https://user-images.githubusercontent.com/81628692/187068010-4d27c51d-6897-4939-9f7a-36d32d18c54b.png)<br>
  ![image](https://user-images.githubusercontent.com/81628692/187068043-c72e0084-7b53-4ad1-8120-86f9f10b2e4c.png)<br>
  ![image](https://user-images.githubusercontent.com/81628692/187068075-cd1b4fed-c1dc-404e-8b4a-6cf21f51d893.png)<br>
  <h2>- Commands of command prompt.</h3><br>
