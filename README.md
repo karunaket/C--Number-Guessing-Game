@@ -1,4 +1,4 @@
-# C--Number-Gussing-Game
+# C--Number-Guessing-Game
 <h1>Follow This</h1>
 
  <h3>- Navigate to my C--Number-Guessing-Game repo.</h3>
